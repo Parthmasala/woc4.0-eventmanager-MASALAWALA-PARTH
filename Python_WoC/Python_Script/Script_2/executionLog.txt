@@ -1,0 +1,11 @@
+
+
+Internet speed test succeeded at 13:59:23 on 2022-01-12
+	Download Speed = 59.6 Mbps
+	Upload Speed = 60.13 Mbps
+	Ping duration = 38.708 Mbps
+
+Internet speed test succeeded at 14:00:51 on 2022-01-12
+	Download Speed = 59.77 Mbps
+	Upload Speed = 60.12 Mbps
+	Ping duration = 21.717 Mbps
